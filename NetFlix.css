@@ -410,7 +410,10 @@ footer .questions {
     .first {
         flex-wrap: wrap;
     }
-
+   .first div{
+        position: relative;
+        padding: 92px 0px 4px 0px;
+    }
     .second {
         flex-wrap: wrap;
     }
@@ -418,7 +421,10 @@ footer .questions {
     .Third {
         flex-wrap: wrap;
     }
-
+    .Third div{
+        position: relative;
+        padding: 92px 0px 4px 0px;
+    }
     .fourth {
         flex-wrap: wrap;
     }
